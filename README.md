@@ -1,4 +1,4 @@
 # apnacollage-demo
 Git tutoreal By apncollage
 <br>
-Author - Rajdeep
+Author - Rajdeep Verma
